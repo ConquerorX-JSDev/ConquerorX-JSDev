@@ -2,7 +2,7 @@
 - 👀 I’m interested in Discord Bot Development
 - 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on Discord bot development/coding
-- 📫 How to reach me: Discord: _conqueror_x_
+- 📫 Reach/Contact me on: Discord (_conqueror_x_)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am 14
 
