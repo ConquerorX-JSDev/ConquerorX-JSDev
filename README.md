@@ -1,10 +1,8 @@
-- 👋 Hi, I’m Conqueror X
-- 👀 I’m interested in Discord Bot Development
-- 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on Discord bot development/coding
-- 📫 Reach/Contact me on: Discord (_conqueror_x_)
+- 👋 Hi, I’m Akhilesh also known as Conqueror/The_Conqueror_X
+- 👀 I’m interested in Discord Bot and JavaScript related projects
+- 📫 Contact me on: Discord (the_conqueror_x)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am 14
+- ⚡ I am 16
 
 <!---
 ConquerorX-JSDev/ConquerorX-JSDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
