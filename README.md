@@ -17,9 +17,9 @@
 ## GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ConquerorUsername&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ConquerorX-JSDev&show_icons=true&theme=tokyonight" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConquerorUsername&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConquerorC-JSDev&layout=compact&theme=tokyonight" />
 </p>
 
 ---
