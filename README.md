@@ -1,10 +1,39 @@
-- 👋 Hi, I’m Akhilesh also known as Conqueror/The_Conqueror_X
-- 👀 I’m interested in Discord Bot and JavaScript related projects
-- 📫 Contact me on: Discord (the_conqueror_x)
-- 😄 Pronouns: He/Him
-- ⚡ I am 16
+# Conqueror (also The_Conqueror_X)
 
-<!---
-ConquerorX-JSDev/ConquerorX-JSDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> Just a Dicord Bot Developer • Always learning new stuff for fun.
+
+---
+
+## Some stuff about me:
+
+- 💻 I code in **JavaScript**, especially with **Node.js** and **Discord.js**
+- ⚙️ Obsessed with making bots that can do various cool things
+- 📦 Building Economy, Moderation, Levling, Ticket
+- 🔧 Not afraid of regex, fs, or a stack trace
+- 😎 Always down to optimize or refactor your spaghetti
+
+---
+
+## GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ConquerorUsername&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConquerorUsername&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## Currently Grinding On
+
+- More Discord.js bots
+- Cool commands + database integration
+- Trying new features, testing edge cases
+
+---
+
+## Connect:
+
+- 🌐 [Discord](https://discordapp.com/users/1140188503515336785)
+
+---
