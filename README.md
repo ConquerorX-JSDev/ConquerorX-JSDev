@@ -1,6 +1,6 @@
 # Conqueror (also The_Conqueror_X)
 
-> Just a Dicord Bot Developer • Always learning new stuff for fun.
+> Just a Discord Bot Developer • Always learning new stuff for fun.
 
 ---
 
